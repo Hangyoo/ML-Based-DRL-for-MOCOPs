@@ -28,7 +28,7 @@ To make it easier for users to understand the format of the training data, we ha
 -   **MOKP_training_data_example.txt**:  
     > Contains 3 columns: the first column represents item weight, and the second and third columns correspond to the two values of the item. The vehicle capacity is set to 1, and the knapsack capacity is set to 1.0.
     
-### Training Data
+### Test Data
 We provide two types of test data:
 1.  Benchmark Test Set
 2.  Random Test Set
