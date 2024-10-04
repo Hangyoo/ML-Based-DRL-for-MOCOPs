@@ -37,7 +37,7 @@ We provide two types of test data:
 |----------------|-------------------------------|-----------------------------|
 |MOTSP           |`TSPLib`            |https://eden.dei.uc.pt/~paquete/mtsp/          |
 |MOCVRP          |`CVRPLib`            |http://vrp.galgos.inf.puc-rio.br/index.php/en/            |
-|MOOVRTW         |`Solomon`|[_https://www.sintef.no/projectweb/top/vrptw/solomon-benchmark/_](https://www.sintef.no/projectweb/top/vrptw/solomon-benchmark/)|
+|MOOVRTW         |`Solomon`|https://www.sintef.no/projectweb/top/vrptw/solomon-benchmark/|
 |MOKP            |`Benchmark instances used in [1]`            |https://www.lamsade.dauphine.fr/~vdp/tv19           |
 |MOOVRP          |`C1-C8, F10-F12`|-- is en-dash, --- is em-dash|
 >[1] _Bergman, D., Bodur, M., Cardonha, C., Cire, A.A. (2022) Network Models for Multiobjective Discrete Optimization. INFORMS Journal on Computing 34(2):990-1005_
