@@ -46,7 +46,45 @@ We provide two types of test data:
 
 We report the results obtained by our algorithm on all test instances of each MOCO problem.
 
-# Contacts
+## Comparison Algorithms
+###  Learning-based comparison algorithms
+We have selected the five best learning-based algorithms for solving MOCOPs to date as comparison algorithms, as detailed below:
+|    Index            |Dataset            |Year              |Link                         |
+|----------------|-------------------------------|-----------------------------|------------|
+|1           |`DRL-MOA` |     2021      |[here](https://ieeexplore.ieee.org/document/9040280)          |
+|2           |`PMOCO`   |     2022      |[here](https://openreview.net/forum?id=QuObT9BTWo)            |
+|3           |`AM-MOCO`|      2019      |[here]()|
+|4           |`ML-AM` |      2022      |[here](https://ieeexplore.ieee.org/document/9714721)        |
+|5           |`EMNH`|    2023 | [here](https://openreview.net/forum?id=593fc38lhN&referrer=%5Bthe%20profile%20of%20Zizhen%20Zhang%5D(%2Fprofile%3Fid%3D~Zizhen_Zhang1))       |
 
+### Exact and heuristic comparison algorithms
+For each MOCOP, we have selected the best 2-3 algorithms (including iteration-based heuristics and exact algorithms) that have addressed the corresponding MOCOP to date as comparison algorithms, as detailed below:
+|    Index     |MOTSP  |MOCVRP  |MOVRPTW    |MOKP   |
+|--------|----------|------|------|--|----|
+|1       |[2] `PDA`    |[4] `EMRG` |[7] `CCMO`  |[10] `BCS`
+|2       |[3] `HLS-EA` |[5] `RMEA` |[8] `INSGAII`  |[11] `Direct`
+|3       |——		   |[6] `CoEA-DAE` |[9] `MAHHs`  |[12] `FHCo` 
+
+> MOSTP
+>>[2] _Cornu, M., Cazenave, T., & Vanderpooten, D. (2017). Perturbed decomposition algorithm applied to the multi-objective traveling salesman problem. _Computers & Operations Research_, _79_, 314-330._
+>>[3] _Agrawal, A., Ghune, N., Prakash, S., & Ramteke, M. (2021). Evolutionary algorithm hybridized with local search and intelligent seeding for solving multi-objective Euclidian TSP. _Expert Systems with Applications_, _181_, 115192._
+
+>MOCVRP
+>>[4] _Xiao, J., Zhang, T., Du, J., & Zhang, X. (2019). An evolutionary multiobjective route grouping-based heuristic algorithm for large-scale capacitated vehicle routing problems. _IEEE transactions on cybernetics_, _51_(8), 4173-4186._
+>>[5] _Jiang, H., Lu, M., Tian, Y., Qiu, J., & Zhang, X. (2022). An evolutionary algorithm for solving capacitated vehicle routing problems by using local information. _Applied Soft Computing_, _117_, 108431._
+>>[6] _Wang, C., Ma, B., & Sun, J. (2023). A co-evolutionary genetic algorithm with knowledge transfer for multi-objective capacitated vehicle routing problems. _Applied Soft Computing_, _148_, 110913._
+
+>MOVRPTW
+>>[7] _Tian, Y., Zhang, T., Xiao, J., Zhang, X., & Jin, Y. (2020). A coevolutionary framework for constrained multiobjective optimization problems. _IEEE Transactions on Evolutionary Computation_, _25_(1), 102-116._
+>>[8] _Srivastava, G., Singh, A., & Mallipeddi, R. (2021). NSGA-II with objective-specific variation operators for multiobjective vehicle routing problem with time windows. _Expert Systems with Applications_, _176_, 114779._
+>>[9] _Lagos, F., & Pereira, J. (2024). Multi-armed bandit-based hyper-heuristics for combinatorial optimization problems. _European Journal of Operational Research_, _312_(1), 70-91._
+
+>MOKP
+>>[10] _Boland, N., Charkhgard, H., & Savelsbergh, M. (2017). A new method for optimizing a linear function over the efficient set of a multiobjective integer program. _European journal of operational research_, _260_(3), 904-919._
+>>[11] _Tamby, S., & Vanderpooten, D. (2021). Enumeration of the nondominated set of multiobjective discrete optimization problems. _INFORMS Journal on Computing_, _33_(1), 72-85._
+>>[12] _Sahinkoc, H. M., & Bilge, Ü. (2022). A reference set based many-objective co-evolutionary algorithm with an application to the knapsack problem. _European Journal of Operational Research_, _300_(2), 405-417._
+
+
+# Contacts
 If you have any questions, feel free to contact me at:  
 [hangyulou1994@gmail.com](mailto:hangyulou1994@gmail.com) or [louhangyu@stumail.neu.edu.cn](mailto:louhangyu@stumail.neu.edu.cn)
