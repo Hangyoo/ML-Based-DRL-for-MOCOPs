@@ -61,9 +61,9 @@ We have selected the five best learning-based algorithms for solving MOCOPs to d
 For each MOCOP, we have selected the best 2-3 algorithms (including iteration-based heuristics and exact algorithms) that have addressed the corresponding MOCOP to date as comparison algorithms, as detailed below:
 |    Index     |MOTSP  |MOCVRP  |MOVRPTW    |MOKP   |
 |--------|----------|------|------|--|
-|1       |[2] `PDA`    |[4] `EMRG` |[7] `CCMO`  |[10] `BCS`|
-|2       |[3] `HLS-EA` |[5] `RMEA` |[8] `INSGAII`  |[11] `Direct`|
-|3       |——		   |[6] `CoEA-DAE` |[9] `MAHHs`  |[12] `FHCo` |
+|1       |[2] `PDA(2017)`    |[4] `EMRG(2019)` |[7] `CCMO(2020)`  |[10] `BCS(2017)`|
+|2       |[3] `HLS-EA(2021)` |[5] `RMEA(2022)` |[8] `INSGAII(2021)`  |[11] `Direct(2021)`|
+|3       |——		   |[6] `CoEA-DAE(2023)` |[9] `MAHHs(2024)`  |[12] `FHCo(2022)`|
 
 > MOSTP
 >>[2] _Cornu, M., Cazenave, T., & Vanderpooten, D. (2017). Perturbed decomposition algorithm applied to the multi-objective traveling salesman problem. _Computers & Operations Research_, _79_, 314-330._
