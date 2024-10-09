@@ -35,7 +35,7 @@ We provide two types of test data:
 
 |                |Dataset                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
-|MOTSP           |`TSPLib`            |https://eden.dei.uc.pt/~paquete/mtsp/          |
+|MOTSP           |`TSPLib`            |https://eden.dei.uc.pt/~paquete/mtsp/ ; https://eden.dei.uc.pt/~paquete/tsp/          |
 |MOCVRP          |`CVRPLib`            |http://vrp.galgos.inf.puc-rio.br/index.php/en/            |
 |MOOVRTW         |`Solomon`|https://www.sintef.no/projectweb/top/vrptw/solomon-benchmark/|
 |MOKP            |`Benchmark instances used in [1]`            |https://www.lamsade.dauphine.fr/~vdp/tv19           |
