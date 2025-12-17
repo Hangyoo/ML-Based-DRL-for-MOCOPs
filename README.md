@@ -41,6 +41,7 @@ We provide two types of test data:
 |MOOVRTW         |`Solomon`|https://www.sintef.no/projectweb/top/vrptw/solomon-benchmark/|
 |MOKP            |`Benchmark instances used in [1]`            |https://www.lamsade.dauphine.fr/~vdp/tv19           |
 |MOOVRP          |`C1-C8, F10-F12`|[here](https://github.com/Hangyoo/ML-Based-DRL-for-MOCOPs/tree/main/Test%20Data/Benchmark%20Test%20Set/MOOVRP)|
+|Feature Selection  |`UCI`|[here](https://archive.ics.uci.edu/)|
 >[1] _Bergman, D., Bodur, M., Cardonha, C., Cire, A.A. (2022) Network Models for Multiobjective Discrete Optimization. INFORMS Journal on Computing 34(2):990-1005_
 
 # Experimental Results
@@ -93,4 +94,4 @@ For each MOCOP, we have selected the best 2-3 algorithms (including iteration-ba
 
 # Contacts
 If you have any questions, feel free to contact me at:  
-[hangyulou1994@gmail.com](mailto:hangyulou1994@gmail.com) or [louhangyu@stumail.neu.edu.cn](mailto:louhangyu@stumail.neu.edu.cn)
+[hangyulou1994@gmail.com](mailto:hangyulou1994@gmail.com) 
